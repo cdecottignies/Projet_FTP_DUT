@@ -1,2 +1,1 @@
-Clément Decottignies
-ADam Declercq
+Réalisé par Clément Decottignies et ADam Declercq
